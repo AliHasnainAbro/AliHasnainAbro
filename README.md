@@ -33,7 +33,7 @@ Welcome to my GitHub! 🚀 I'm a **4th-semester Data Science student** passionat
 ---
 
 ## **📂 Featured Projects**  
-🚀 **[Sales Data Analysis in Excel](https://ALiHasnainAbro/Sales-Data-Analysis)**  
+🚀 **[Sales Data Analysis in Excel](https://AliHasnainAbro/Sales-Data-Analysis)**  
 📊 Analyzed **sales performance, customer behavior, and trends** using **Microsoft Excel, pivot tables, and data visualizations**.  
 
 ---
