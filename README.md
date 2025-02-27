@@ -31,8 +31,8 @@ Welcome to my GitHub! 🚀 I'm a **4th-semester Data Science student** passionat
 ---
 
 ## **📊 GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliHasnainAbro&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHasnainAbro&layout=compact&theme=radical)  
 
 ---
 
