@@ -1,3 +1,6 @@
+# **👋 Hey there, I'm Ali Hasnain Abro!**  
+**Aspiring Data Scientist | Machine Learning Enthusiast | Data Analytics & AI**  
+
 Welcome to my GitHub! 🚀 I'm a **4th-semester Data Science student** passionate about **Machine Learning, Data Analytics, and AI-driven solutions**. I love working with **data, statistics, and algorithms** to uncover insights and solve real-world problems.  
 
 💡 I’m currently expanding my knowledge in **Big Data, AI, and Web Technologies**, and I enjoy building **data-driven applications** that make an impact!  
