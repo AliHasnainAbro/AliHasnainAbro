@@ -40,7 +40,6 @@ Welcome to my GitHub! 🚀 I'm a **4th-semester Data Science student** passionat
 ---
 
 ## **📫 Connect With Me!**  
-🌐 **Portfolio:** [yourwebsite.com](#)  
 💼 **LinkedIn:** [(https://www.linkedin.com/in/ali-hasnain-abro-459858205/](#)  
 📧 **Email:** [aliabro2004@gmail.com](#)  
 
