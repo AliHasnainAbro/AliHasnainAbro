@@ -28,8 +28,8 @@ Welcome to my GitHub! 🚀 I'm a  Data Science student passionate about **Machin
 ---
 
 ## **📂 Featured Projects**  
-🚀 **Email-Automation-tool**[(https://github.com/AliHasnainAbro/Email-Automation-tool)](#)  
-\ 
+🚀 **Email-Automation-tool** [(https://github.com/AliHasnainAbro/Email-Automation-tool)](#)  
+
 
 ---
 
