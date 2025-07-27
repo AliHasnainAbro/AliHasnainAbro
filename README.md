@@ -28,7 +28,7 @@ Welcome to my GitHub! 🚀 I'm a  Data Science student passionate about **Machin
 ---
 
 ## **📂 Featured Projects**  
-🚀 **[(Sales-Data-Analysis)](https://github.com/AliHasnainAbro/Sales-Data-Analysis)**  
+🚀 **[(Email-Automation-tool)]([https://github.com/AliHasnainAbro/Sales-Data-Analysis](https://github.com/AliHasnainAbro/Email-Automation-tool))**  
 📊 Analyzed **sales performance, customer behavior, and trends** using **Microsoft Excel, pivot tables, and data visualizations**.  
 
 ---
