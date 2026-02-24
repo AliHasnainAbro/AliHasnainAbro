@@ -40,7 +40,7 @@ Welcome to my GitHub! 🚀 I'm a  Data Science student passionate about **Machin
 ---
 
 ## **📫 Connect With Me!**  
-💼 **LinkedIn:** [(https://www.linkedin.com/in/ali-hasnain-abro-459858205/](#)  
+💼 **LinkedIn:** [(https://www.linkedin.com/in/alihasnainabro/](#)  
 📧 **Email:** [aliabro2004@gmail.com](#)  
 
 ---
